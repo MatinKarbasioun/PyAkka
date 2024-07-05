@@ -1,4 +1,4 @@
-asyncio
-pytest
-pytest-asyncio
-pykka
+asyncio==3.4.3
+pytest==8.2.2
+pytest-asyncio==0.23.7
+pykka==4.0.2

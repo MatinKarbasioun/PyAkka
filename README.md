@@ -23,3 +23,6 @@ This project is inspired by Akka, Akka.NET, and Pykka. Special thanks to the con
 
 
 Feel free to modify any sections to better fit your project's specific details.
+
+#License
+PyAkka is copyright 2024-2028 Matin Karbasioun and contributors. PyAkka is licensed under the Apache License, Version 2.0.
