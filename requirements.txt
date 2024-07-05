@@ -1,0 +1,4 @@
+asyncio
+pytest
+pytest-asyncio
+pykka

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyAkka"
+version = "0.1.0"
+authors = [
+    { name="Matin Karbasioun", email="mkarbasioun@gmail.com" },
+]
+description = "A Python library for actor-based concurrency inspired by Akka.NET and Akka."
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/matinkarbasioun/pyakka"
+Issues = "https://github.com/MatinKarbasioun/PyAkka/issues"
